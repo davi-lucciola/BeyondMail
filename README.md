@@ -55,6 +55,5 @@ For use one email server, its just get the constant in `Host` class.
 **OBS:** The hosting support are in progress, if you want to colaborate to our project, please make a **pull request**.
 
 - Gmail
+  - You need to generate an App Password of google to use.  
 - Outlook
-
-<hr>
