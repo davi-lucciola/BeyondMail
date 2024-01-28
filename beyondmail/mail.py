@@ -82,6 +82,3 @@ class BeyondMail:
         body.set_payload(message)
 
         self.smtp_server.sendmail(self.email, emails_to, body.as_string())
-
-
-BeyondMail()
