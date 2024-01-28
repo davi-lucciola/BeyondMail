@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "beyondmail"
-version = "0.1.1"
-description = ""
+version = "0.1.2"
+description = "Beyond Mail its an open source project made for sending emails easily with python."
 authors = ["Davi Lucciola <davilucciola14@gmail.com>"]
 readme = "README.md"
 

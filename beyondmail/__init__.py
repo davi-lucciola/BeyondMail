@@ -1,2 +1,2 @@
 from .mail import BeyondMail
-from .host import Hosts
+from .host import Host
