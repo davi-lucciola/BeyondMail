@@ -1,8 +1,8 @@
 # Beyond Mail
 
-<center>
-<img src="./images/LibName.png" />
-</center>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/davi-lucciola/BeyondMail/main/images/LibName.png" />
+</div>
 
 Beyond Mail its an **open source** project made for sending emails easily with python.
 
@@ -57,6 +57,6 @@ For use one email server, its just get the constant in `Host` class.
 
 <hr>
 
-<center>
-  <img src="./images/LibLogo.png" style="border-radius: 50%;"/>
-</center>
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/davi-lucciola/BeyondMail/main/images/LibLogo.png" style="border-radius: 50%; height: 200px;"/>
+</div>
